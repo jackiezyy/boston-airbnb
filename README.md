@@ -6,7 +6,7 @@ In this repo you'll find the analysis I did for the data scientist nanodegree us
 3. How can reviews affect prices?
 
 ## Blog Post
-https://medium.com/@davidgm_18619/what-i-found-from-analyzing-the-boston-airbnb-open-dataset-8c0fae4c3737
+https://medium.com/@jackiezhang_63030/boston-airbnb-blog-post-5bfea8a2b11d
 
 ## Acknowledgements
 Data from Kaggle
